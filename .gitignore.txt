@@ -1,10 +1,9 @@
 # Unity generated folders
-[Libraries]
+Library/
 Temp/
 Obj/
 Build/
 Builds/
-Library/
 Logs/
 UserSettings/
 MemoryCaptures/
